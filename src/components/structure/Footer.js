@@ -6,7 +6,7 @@ function Footer() {
       <div className="content has-text-centered has-text-white">
       <p>
         Modified at <i className="fas fa-home"></i> by{" "}
-          <a href="https://github.com/jcoelho93" className="has-text-white">
+          <a href="https://github.com/YazanAhmad-Eng" className="has-text-white">
             <strong>Yazan Ahmad</strong>
           </a> 
 
