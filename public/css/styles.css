@@ -10,10 +10,17 @@ html {
 }
 .has-bg-image {
     background-image: url('../images/yazanBG.webp'), url('../images/yazan.JPG'),url('https://drive.google.com/uc?export=view&id=1hKXsTxMkYURyRSx0mPNtDJOTnIaSFikz') ;
-    background-repeat: no-repeat;
+    background-position: center center;
+    background-repeat:  no-repeat;
     background-attachment: fixed;
-    background-size: cover;
+    background-size:  cover;
+    background-color: #999;
 }
+/* @media only screen and (max-width: 767px) {
+    .has-bg-image {
+
+    }
+  } */
 .bulma-image {
     width: 200px;
 }
