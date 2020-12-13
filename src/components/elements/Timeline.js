@@ -38,6 +38,7 @@ function Timeline() {
                     })}
                     company={item.company}
                     summary={item.summary}
+                    position={item.position}
                   />
                 );
               })
