@@ -9,7 +9,7 @@ html {
     margin: 30px 0 0 0;
 }
 .has-bg-image {
-    background-image: url('../images/cover10.webp'), url('../images/cover10.JPG');
+    background-image: url('../images/yazanBG.webp'), url('../images/yazan.JPG');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
@@ -33,4 +33,11 @@ html {
     -webkit-box-shadow: 31px 22px 105px 0px rgba(0,0,0,1);
 -moz-box-shadow: 31px 22px 105px 0px rgba(0,0,0,1);
 box-shadow: inset 31px 22px 105px 0px rgba(0,0,0,1)!important;
+}
+.lilphoto{
+    
+        display: block;
+        height: auto;
+        width: 90% !important;
+    
 }

@@ -8,11 +8,11 @@ function AboutMe() {
       <div className="container has-text-centered">
         <figure className="image container is-180x180">
           <img
-            width="180px"
-            height="180px"
+            width="110px"
+            height="150px"
             src={Resume.basics.picture}
             alt={Resume.basics.name}
-            className="is-rounded"
+            className="is-rounded lilphoto"
             onError={(e)=>{e.target.onerror = null; e.target.src=Resume.basics.x_pictureFallback}}
           />
         </figure>
