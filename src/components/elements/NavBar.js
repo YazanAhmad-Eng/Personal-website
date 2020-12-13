@@ -17,8 +17,8 @@ class NavBar extends React.Component {
   render() {
     return (
       <nav className="navbar is-transparent">
-        <div className="container">
-          <div className="navbar-brand">
+        <div className="container dark">
+          <div className="navbar-brand ">
             <a href="/" className="navbar-item title is-unselectable my-name">
               {Resume.basics.name}
             </a>
